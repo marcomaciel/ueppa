@@ -1,1 +1,0 @@
-37;OURO Taxi;21-3483-7777;Rio de Janeiro|23;COOPSIND;21-2589-4503;Rio de Janeiro|13;COOPAMAR;21-3878-8802;Rio de Janeiro|11;LIGUE Taxi;21-2126-8787;Rio de Janeiro|70;BARRA Service;21-3416-5600;Rio de Janeiro| 9;RIO Taxi;21-3514-7733;Rio de Janeiro|24;PERSONAL Trans;21-3092-6567;Rio de Janeiro|16;LIG Tenha;21-2622-8442;Niteroi|17;TAXI Call;21-2605-2184;Sao Goncalo

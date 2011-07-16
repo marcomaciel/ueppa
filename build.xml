@@ -2,7 +2,7 @@
 <!-- You may freely edit this file. See commented blocks below for -->
 <!-- some examples of how to customize the build. -->
 <!-- (If you delete it and reopen the project it will be recreated.) -->
-<project name="agenda" default="jar" basedir=".">
+<project name="ueppa" default="jar" basedir=".">
     <description>Builds, tests, and runs the project .</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
@@ -81,7 +81,7 @@
 
             -->
 
-            <property name="floggy.path" value="C:\Java\floggy-persistence-1.3.1"/>
+            <property name="floggy.path" value="/home/marco/Dropbox/rep/Java/floggy-persistence-1.3.1/"/>
 
     <path id="floggy.classpath">
         <fileset dir="${floggy.path}\lib" includes="*.jar"/>
