@@ -2,6 +2,7 @@
 target
 bin
 build
+nbproject/private
 dist
 *.class
 *.jar
